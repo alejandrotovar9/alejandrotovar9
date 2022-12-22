@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alejandro Tovar.
-- 👀 I’m interested in Electrical Engineering, Automation, Electronics and Digital Systems!
+- 👀 I’m interested in Electrical Engineering, Automation, Electronics and Control Systems!
 - 🌱 I’m currently learning about Electronics and Embedded Systems.
 - 💞️ I’m looking to collaborate on projects involving IoT, Microcontrollers.
 - 📫 How to reach me: 
