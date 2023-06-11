@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about Electronics and Embedded Systems.
 - 💞️ I’m looking to collaborate on projects involving IoT, Microcontrollers.
 - 📫 How to reach me: 
-      -Twitter: @JATovar_
 
 <!---
 alejandrotovar9/alejandrotovar9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
